@@ -1,0 +1,42 @@
+body, .first_block .second_block .footer{
+  color: #2f80ed;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+
+}
+
+.box {
+
+  margin: 110px auto 0;
+  text-align: center;
+
+
+}
+
+.footer {
+  text-align: center;
+  margin: 280px auto 30px;
+}
+
+
+.first_block {
+  width: 420px;
+  height: 140px;
+  margin: 10px auto 0px;
+  font-size: 140px;
+  text-align: center;
+
+}
+
+.second_block {
+  width: 420px;
+  height: 140px;
+  margin: 22px auto 0;
+  display: none;
+  font-size: 15px;
+  text-align: center;
+}
+
+.first_block:hover .second_block {
+  display: block;
+  text-align: center;
+}
