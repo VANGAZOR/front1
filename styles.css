@@ -5,18 +5,9 @@ body, .first_block .second_block .footer{
 }
 
 .box {
-
   margin: 110px auto 0;
   text-align: center;
-
-
 }
-
-.footer {
-  text-align: center;
-  margin: 280px auto 30px;
-}
-
 
 .first_block {
   width: 420px;
@@ -24,7 +15,6 @@ body, .first_block .second_block .footer{
   margin: 10px auto 0px;
   font-size: 140px;
   text-align: center;
-
 }
 
 .second_block {
@@ -40,3 +30,10 @@ body, .first_block .second_block .footer{
   display: block;
   text-align: center;
 }
+
+.footer {
+  text-align: center;
+  margin: 280px auto 30px;
+}
+
+
